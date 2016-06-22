@@ -38,7 +38,7 @@
  .nav {
   background-color: blueviolet;
   width: 20%;
-  height:20%;
+  height:100%;
   flex: 1;
  }
 
