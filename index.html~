@@ -1,0 +1,23 @@
+<!Website html>
+<html>
+<head>
+  <title>Olivia's Website</title>
+</head>
+<body>
+
+  <div class="nav"
+  <h2>More...
+  </h2>
+  <ul>
+    <li>About Me</li>
+    <li>Cool Links</li>
+    <li>Social Media</li>
+  </ul>
+  </div>
+<div class="main"
+  <h1>Olivia Chester</h1>
+  <h3>Cheerleader,Dancer, and Golfer</h3>
+<img src=""/>
+</div> 
+</body>
+ 
